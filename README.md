@@ -9,7 +9,7 @@ Write your own steps here.
 ### Step 2:
 
 ## Code:
-```
+```python
 index.html:
 <!DOCTYPE html>
 <html>
