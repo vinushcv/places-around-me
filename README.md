@@ -250,7 +250,36 @@ school.html:
 
 ```
 ## Output:
-Include your output screenshot here
+index:
+
+![web ex4 index](https://user-images.githubusercontent.com/113975318/233306662-2491baae-2180-4fbe-aeef-47405b41e2bd.png)
+
+
+home:
+![web ex4 home](https://user-images.githubusercontent.com/113975318/233306750-85e093bc-510c-4651-a699-c64e34718773.png)
+
+
+temple:
+
+![web ex4 temple](https://user-images.githubusercontent.com/113975318/233307977-61a52332-33cc-4ee7-ac78-771c2ae11135.png)
+
+
+school:
+
+
+![web ex4 school](https://user-images.githubusercontent.com/113975318/233308121-09d50f94-10f6-4d84-b8cb-155e6c13d069.png)
+
+
+
+sports:
+
+![web ex4 sports](https://user-images.githubusercontent.com/113975318/233308192-ccbafc50-0c64-42a8-8238-bfd1c4ad5039.png)
+
+
+
+
+
+
 
 ## Result:
 Write your result
