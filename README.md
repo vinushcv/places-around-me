@@ -248,7 +248,7 @@ school.html:
 
 </html>
 
-
+```
 ## Output:
 Include your output screenshot here
 
